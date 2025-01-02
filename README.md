@@ -61,9 +61,9 @@
    ```
 
 2. **Transpile and Execute:**
-   Run the `pachalang` CLI to transpile and execute:
+   Run the `pachamalayalam` CLI to transpile and execute:
    ```bash
-   pachalang hai_bosse.pymal
+   pachamalayalam hai_bosse.pymal
    ```
 
 3. **Output:**
@@ -105,7 +105,7 @@ Here's an example to demonstrate a basic **if-else** logic in PachaMalayalam:
 
 Save this script in `example.pymal` and run:
 ```bash
-pachalang example.pymal
+pachamalayalam example.pymal
 ```
 
 ---

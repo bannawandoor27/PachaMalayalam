@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="PachaMalayalam",  
-    version="0.1.0",  
+    version="0.2.0",  
     author="bannawandoor27",
     author_email="bannawandoor@gmail.com",
     description="A transpiler for writing Python code using Malayalam keywords",
@@ -22,7 +22,7 @@ setup(
     python_requires=">=3.7",  
     entry_points={
         "console_scripts": [
-            "pachalang=pachamalayalam.transpiler:main",  
+            "pachamalayalam=pachamalayalam.transpiler:main",  
         ]
     },
     install_requires=[],  
